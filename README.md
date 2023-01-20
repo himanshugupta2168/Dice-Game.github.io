@@ -1,1 +1,1 @@
-# Dice-Game.github.io
+permalink: /Index.html
